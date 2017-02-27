@@ -1,0 +1,21 @@
+h1 {
+	font-size: 36px;
+	color: red;
+}
+
+table {
+	border: 5px solid rgb(104, 20, 249);
+	border-collapse: collapse;
+	font-family: arial, sans-serif;
+}
+
+th, td {
+	padding: 10px;
+	border: 25px solid rgb(28, 39, 228);
+	font-size: 18px;
+	font-weight: bold;
+}
+
+th {
+	font-size: 28px;
+}
